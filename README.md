@@ -1,7 +1,4 @@
 
-
-![alexandre-aymard-FYsW9ItVFrM-unsplash](https://github.com/user-attachments/assets/a6397e11-4320-4bdc-bb48-fc6ef63142d4)
-
 # 🏅 Olympic Data Analysis (Python & Jupyter Notebook)
 
 A comprehensive **Exploratory Data Analysis (EDA)** project on Olympic Games data, uncovering insights into athlete performance, medal distribution, and historical trends using **Python** and **Jupyter Notebook**.
