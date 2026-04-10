@@ -1,69 +1,86 @@
-# Olympic Games Analysis and Visualization
-
-This project provides a comprehensive analysis of Olympic Games data, including athlete performances, medal tallies, and event statistics. Using Jupyter Notebook, the project explores data through visualizations and calculations, leveraging libraries such as pandas, matplotlib, and SQL.
-
-## Purpose
-The goal of this project is to analyze and visualize Olympic Games data to uncover trends and insights about medal distribution, athlete performance, and event statistics.
-
-
-
-
 
 
 ![alexandre-aymard-FYsW9ItVFrM-unsplash](https://github.com/user-attachments/assets/a6397e11-4320-4bdc-bb48-fc6ef63142d4)
 
+# 🏅 Olympic Data Analysis (Python & Jupyter Notebook)
+
+A comprehensive **Exploratory Data Analysis (EDA)** project on Olympic Games data, uncovering insights into athlete performance, medal distribution, and historical trends using **Python** and **Jupyter Notebook**.
+
+---
+
+## 📌 Project Overview
+This project analyzes historical Olympic data to identify key trends and patterns across countries, sports, and athletes.  
+Using powerful data analysis and visualization techniques, it transforms raw data into meaningful insights.
+
+---
+
+## 🎯 Objectives
+- Analyze **medal distribution** across countries and years  
+- Evaluate **athlete performance and longevity**  
+- Identify **top sports and events**  
+- Explore **gender-based participation and success trends**  
+- Discover **historical patterns in Olympic Games hosting**  
+
+---
+
+## 🖼️ Project Preview
+![Olympic Image](https://github.com/user-attachments/assets/a6397e11-4320-4bdc-bb48-fc6ef63142d4)
+
+---
+
+## 📊 Key Insights & Analysis
+- 🥇 Top-performing countries by total medals  
+- 🏆 Countries dominating gold medals in specific years  
+- 📈 Medal trends over time  
+- 🏃 Most successful sports and events  
+- 👩‍🦰 Gender-wise medal distribution  
+- 🌍 Cities hosting the most Olympic Games  
+- 📏 Average athlete height & weight by country  
+- ⏳ Athletes with the longest careers  
+
+---
+
+## 🗂️ Dataset Description
+The analysis is based on multiple datasets:
+
+- **Athlete Biography** → Height, weight, country  
+- **Athlete Events** → Participation and medals  
+- **Country Profiles** → Country-level information  
+- **Event Results** → Event outcomes  
+- **Games Data** → Olympic editions and hosts  
+- **Medal History** → Year-wise medal tally  
+
+---
+
+## 🧮 Key Analysis Performed
+- Top 10 countries by medal count  
+- Most popular sports by medals  
+- Athlete physical analysis (height & weight trends)  
+- Year-wise medal distribution  
+- Gender participation analysis  
+- Host city frequency analysis  
+- Event-level medal dominance  
+- Athlete participation trends  
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔹 Languages & Libraries
+- Python  
+- Pandas  
+- Matplotlib  
+
+### 🔹 Tools
+- Jupyter Notebook  
+- Git & GitHub  
+
+---
+
+## ⚙️ How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/mumairnawaz/your-repo-name.git
 
 
-
-
-
-
-
-
-## Summary
-The analysis covers:
-- Top-performing countries by total medals.
-- Sports with the highest number of medals.
-- Average athlete height and weight by country.
-- Medal trends over the years.
-- Gender-based medal distribution.
-- Cities that have hosted the most Olympic Games.
-- Most medaled events.
-- Athletes with the longest careers.
-- Countries with the most gold medals in a single year.
-
-## Datasets
-- **Athlete Biography:** Information about athletes including height, weight, and country.
-- **Athlete Event Details:** Event participation details and medal counts.
-- **Country Profiles:** Country information.
-- **Event Results:** Details of the events including results.
-- **Games Summary:** Summary of the games held.
-- **Medal Tally History:** Historical medal counts by year and country.
-
-## Important Calculations
-- Top 10 countries by total medal count.
-- Sports with the most medals.
-- Average height and weight of athletes by country.
-- Total medals awarded by year.
-- Gender-based medal counts.
-- Cities hosting the most games.
-- Most medaled events.
-- Athletes with the most game participations.
-- Countries with the highest gold medals in a single year.
-
-## Libraries Used
-- `pandas`
-- `matplotlib`
-- `SQL`
-
-## Tools Used
-- Jupyter Notebook
-- Git for version control
-
-## Installation
-1. Clone the repository.
-2. Install required libraries using `pip install -r requirements.txt`.
-3. Open and run the Jupyter Notebook in your preferred environment.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for more details.
